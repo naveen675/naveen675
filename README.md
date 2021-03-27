@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @naveen675
 - 👀 I’m interested in exploring and developing new things
-- 🌱 I’m currently learning creating building streaming and batch piplines using pub/sub, data flow, data proc,ETL,in google cloud, python
+- 🌱 I’m currently learning, how to build streaming and batch piplines using pub/sub, data flow, data proc,ETL,in google cloud using python-     
 - 💞️ I’m looking to collaborate with big data technologies, I had an experience of working in informatica power center, informatica intelligent cloud services. creating a data pipelines to load data from on premise systems to google cloud.
+- - you can check below the list of utilities that I have created
+-     created a python script that takes excel files which are in unstructured format as input and generates a csv files in structured format by reordering columns in standard         way, script available in my reporsitory
 - 📫 reach me out to my mogile 9629607548
 
 <!---
