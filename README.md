@@ -3,7 +3,7 @@
 - 🌱 I’m currently working on framework,using python flask.    
 - 💞️ I’m looking to collaborate with full stack development in python or Java, I had an experience of creating web pages using python and Java. for more info you can look into my 
 -   Portfo's
-- 📫 reach me out to my mobile 9629607548
+- 📫 reach out to me on my mobile 9629607548
 
 <!---
 naveen675/naveen675 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
