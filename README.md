@@ -8,9 +8,7 @@
 
 ### Connect with me:
 
-[![website](./img/hackerrank-light.svg)](https://www.hackerrank.com/spnaveen675#gh-light-mode-only)
-[![website](./img/hackerrank-dark.svg)](https://www.hackerrank.com/spnaveen675#gh-dark-mode-only)
-&nbsp;&nbsp;
+
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/naveensai-675/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/naveensai-675/#gh-dark-mode-only)
 
@@ -33,24 +31,6 @@
 <br />
 <br />
 
----
+<summary>:zap: GitHub Stats</summary>
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. 💪 Opened PR [#1580](https://github.com/anuraghazra/github-readme-stats/pull/1580) in [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
-2. 🗣 Commented on [#1572](https://github.com/anuraghazra/github-readme-stats/issues/1572) in [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
-3. 🎉 Merged PR [#1](https://github.com/mongodb-developer/mongodb-ecommerce/pull/1) in [mongodb-developer/mongodb-ecommerce](https://github.com/mongodb-developer/mongodb-ecommerce)
-4. 💪 Opened PR [#1](https://github.com/mongodb-developer/mongodb-ecommerce/pull/1) in [mongodb-developer/mongodb-ecommerce](https://github.com/mongodb-developer/mongodb-ecommerce)
-5. 🗣 Commented on [#1572](https://github.com/anuraghazra/github-readme-stats/issues/1572) in [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
-<!--END_SECTION:activity-->
-
-</details>
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="naveen675's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=naveen675&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-
-</details>
+<img align="left" alt="naveen675's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=naveen675&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
