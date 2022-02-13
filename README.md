@@ -1,6 +1,6 @@
 # Hi there, I'm Naveen
 
-- 🌱 I’m currently learning Development 🤣
+- 🌱 I’m currently learning Development
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Learn more about full Stack Development,System Design
 - ⚡ Fun fact: I love to hear music
@@ -10,7 +10,7 @@
 
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/naveensai-675#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/naveensai-675#gh-dark-mode-only)
-
+&nbsp;&nbsp;
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
