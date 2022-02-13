@@ -1,16 +1,9 @@
 # Hi there, I'm Naveen
 
-- 🌱 I’m currently learning Development
-- 👯 I’m looking to collaborate with other content creators
+- 🌱 I’m currently learning Development and Enthusiastic towards problem solving
+- 👯 I’m looking to collaborate with other developers
 - 🥅 2022 Goals: Learn more about full Stack Development,System Design
 - ⚡ Fun fact: I love to hear music
-
-
-### Connect with me:
-
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/naveensai-675/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/naveensai-675/#gh-dark-mode-only)
-
 
 ### Languages and Tools:
 
