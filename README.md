@@ -8,8 +8,8 @@
 
 ### Connect with me:
 
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/naveensai-675#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/naveensai-675#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/naveensai-675)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/naveensai-675)
 &nbsp;&nbsp;
 ### Languages and Tools:
 
