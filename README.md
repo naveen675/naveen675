@@ -5,6 +5,14 @@
 - 🥅 2022 Goals: Learn more about full Stack Development,System Design
 - ⚡ Process is Important than result because if you follow the process in a right way then result will be at your door step
 
+### You can reach out to me:
+<p align="center">
+<br>
+<a href="https://instagram.com/naveen_nidamanuri" target="_blank"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/naveen675/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+</p>
+
+<br>
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
