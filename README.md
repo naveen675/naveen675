@@ -9,7 +9,7 @@
 <p align="center">
 <br>
 <a href="https://instagram.com/naveen_nidamanuri" target="_blank"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
-<a href="https://www.linkedin.com/in/naveen675/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/naveensai-675/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 </p>
 
 <br>
@@ -29,5 +29,14 @@
 <br />
 <br />
 
+### :zap: Github Stats
 
-<img align="left" alt="naveen675's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=naveen675&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=alpha037&count_private=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e&cache_seconds=1800" alt="naveen675's Github Stats" width="60%">
+  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naveen675&show_icons=true&hide_border=true&theme=radical" width="37%" alt="naveen675's Top Languages">
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=naveen675&theme=dark" alt="naveen675's Github Streaks" width="70%">
+</div>
+
+<br>
