@@ -2,7 +2,6 @@
 
 - 🌱 I’m currently learning Development and Enthusiastic towards problem solving
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2022 Goals: Learn more about full Stack Development,System Design
 - ⚡ Process is Important than result because if you follow the process in a right way then result will be at your door step
 
 <p align="center">
