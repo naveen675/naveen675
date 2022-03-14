@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Development and Enthusiastic towards problem solving
 - 👯 I’m looking to collaborate with other developers
 - ⚡ Process is Important than result because if you follow the process in a right way then result will be at your door step
+- Never and Ever underate yourself.
 
 <p align="center">
     <img align="center" alt="visitors" src="https://gpvc.arturio.dev/naveen675" />
