@@ -1,6 +1,6 @@
 # Hi there, I'm Naveen
 
-- 🌱 I’m currently learning Development and Enthusiastic towards problem solving
+- 🌱 Currently working on my Development skills and Enthusiastic towards problem solving
 - 👯 I’m looking to collaborate with other developers
 - ⚡ Process is Important than result because if you follow the process in a right way then result will be at your door step
 - Stay high and Hungry.Consistency matters
