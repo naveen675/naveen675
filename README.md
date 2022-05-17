@@ -34,7 +34,7 @@
 <img align="left" alt="Jira" width="25px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTw08jO1GdNZjfEbs5m54SsjEoysCmfPrzBfA&usqp=CAU" style="padding-right:10px;" />
 
 <br />
-<h1>Don't forget to give stars if you like the content </h1>
+<h4>Don't forget to give stars if you like the content </h4>
 <br />
 ### :zap: Github Stats
 
