@@ -2,7 +2,7 @@
 
 
 
-- ⚡ Process is Important than result because if you follow the process in a right way then result will be at your door step
+- ⚡ Focus on process instead of results
 - Stay high and Hungry.Consistency matters
 
 <p align="center">
