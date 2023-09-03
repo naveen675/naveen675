@@ -5,9 +5,6 @@
 - ⚡ Focus on process instead of results
 - Stay high and Hungry.Consistency matters
 
-<p align="center">
-    ![](https://komarev.com/ghpvc/?username=naveen675)
-</p>
 
 ### You can reach out to me:
 <p align="center">
