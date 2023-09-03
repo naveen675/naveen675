@@ -6,7 +6,7 @@
 - Stay high and Hungry.Consistency matters
 
 <p align="center">
-    <img align="center" alt="visitors" src="https://gpvc.arturio.dev/naveen675" />
+    <img align="center" alt="visitors" src="![Visitor Count](https : //profile-counter.glitch.me/{naveen675}/count.svg)" />
 </p>
 
 ### You can reach out to me:
