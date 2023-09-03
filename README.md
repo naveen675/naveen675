@@ -4,8 +4,8 @@
 
 - ⚡ Focus on process instead of results
 - Stay high and Hungry.Consistency matters
-- Visitor Count
-![Visitor Count](https://profile-counter.glitch.me/{username}/count.svg)
+<p align="center">Visitor Count</p>
+<p align="center">![Visitor Count](https://profile-counter.glitch.me/{username}/count.svg)</p>
 
 ### You can reach out to me:
 <p align="center">
@@ -34,7 +34,7 @@
 <br />
 <h4>Don't forget to give stars if you like the content </h4>
 <br />
-### :zap: Github Stats
+:zap: Github Stats
 
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=naveen675&count_private=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e&cache_seconds=1800" alt="naveen675's Github Stats" width="60%">
   
