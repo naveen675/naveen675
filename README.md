@@ -5,7 +5,7 @@
 - ⚡ Focus on process instead of results
 - Stay high and Hungry.Consistency matters
 <p align="center">Visitor Count</p>
-<p align="center">![Visitor Count](https://profile-counter.glitch.me/{username}/count.svg)</p>
+<p align="center" ![Visitor Count](https://profile-counter.glitch.me/{username}/count.svg)></p>
 
 ### You can reach out to me:
 <p align="center">
