@@ -4,6 +4,8 @@
 
 - ⚡ Focus on process instead of results
 - Stay high and Hungry.Consistency matters
+- GCP Certified
+- More Aligned towards solving cutomer problems and case studies
   
 
 ![Visitor Count](https://profile-counter.glitch.me/{naveen675}/count.svg)
