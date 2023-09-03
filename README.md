@@ -6,7 +6,7 @@
 - Stay high and Hungry.Consistency matters
 
 <p align="center">
-    <img align="center" alt="visitors" src="![](https://komarev.com/ghpvc/?username=naveen675)" />
+    ![](https://komarev.com/ghpvc/?username=naveen675)
 </p>
 
 ### You can reach out to me:
