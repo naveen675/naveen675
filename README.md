@@ -4,8 +4,10 @@
 
 - ⚡ Focus on process instead of results
 - Stay high and Hungry.Consistency matters
-- GCP Certified
+- Enthusiastic towards developing applications on scale.
+- Leveraging GPT to design, build, develop more robust and scalable applications. With no compramise in security.
 - More Aligned towards solving cutomer problems and case studies
+- I would highly recommend to explore the respositories and do let me know If can solve your business needs. 
   
 
 ![Visitor Count](https://profile-counter.glitch.me/{naveen675}/count.svg)
