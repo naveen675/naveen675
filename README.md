@@ -17,7 +17,7 @@
 <a href="https://www.linkedin.com/in/naveensai-675/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 </p>
 
-<br>
+<br> </br>
 ### Languages and Tools:
 
 <img align="left" alt="Java" width="40px" src="https://qph.cf2.quoracdn.net/main-qimg-317f4ff0db8d0ba328fc6d627af72d89" style="padding-right:10px;" />
@@ -31,7 +31,7 @@
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
-<img align="left" alt="GCP" width="100px" src="https://www.gstatic.com/devrel-devsite/prod/v96fe7c72c7b00a90a6621d124258058ede00fa09bdb0b7e43bfa676d03923593/cloud/images/cloud-logo.svg" style="padding-right:10px;" />
+<!--<img align="left" alt="GCP" width="100px" src="[[https://www.gstatic.com/devrel-devsite/prod/v96fe7c72c7b00a90a6621d124258058ede00fa09bdb0b7e43bfa676d03923593/cloud/images/cloud-logo.svg](https://banner2.cleanpng.com/20181106/gjq/kisspng-google-cloud-platform-cloud-computing-g-suite-appl-5be206cd8f3455.2142196015415395335866.jpg)](https://banner2.cleanpng.com/20181106/gjq/kisspng-google-cloud-platform-cloud-computing-g-suite-appl-5be206cd8f3455.2142196015415395335866.jpg)" style="padding-right:10px;" /> -->
 <img align="left" alt="Jira" width="25px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTw08jO1GdNZjfEbs5m54SsjEoysCmfPrzBfA&usqp=CAU" style="padding-right:10px;" />
 
 <br />
